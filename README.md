@@ -6,7 +6,7 @@ An interactive Power BI dashboard built using IPL ball-by-ball data to analyze b
 ---
 
 ### 📊 Dashboard Preview
-![IPL Ball-by-Ball Dashboard](images/ipl_ball_by_ball_dashboard.png)
+![IPL Ball-by-Ball Dashboard](ipl_ball_by_ball_dashboard.png)
 
 ---
 
